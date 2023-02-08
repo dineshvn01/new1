@@ -1,0 +1,7 @@
+class Demo
+{
+public static void void main(System[] args)
+{
+System.out.println("welcome to git");
+}
+}
